@@ -1,3 +1,8 @@
+# Comentários começam com cerquilha (#)
+
+# Ignorar arquivos temporários
+*.tmp
+
 # Logs
 logs
 *.log
